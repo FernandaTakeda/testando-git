@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 “alterando codificacao no main”
+=======
+alterando codificacao no outro branch
+>>>>>>> funcionalidade1
